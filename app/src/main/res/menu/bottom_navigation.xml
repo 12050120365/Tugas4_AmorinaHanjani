@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_foryou"
+        android:icon="@drawable/icon_foryou"
+        android:title="@string/for_you" />
+    <item
+        android:id="@+id/nav_original"
+        android:icon="@drawable/icon_original"
+        android:title="@string/original"/>
+    <item
+        android:id="@+id/nav_kanvas"
+        android:icon="@drawable/icon_kanvas"
+        android:title="@string/kanvas"/>
+    <item
+        android:id="@+id/nav_favoritku"
+        android:icon="@drawable/icon_favoritku"
+        android:title="@string/favoritku"/>
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/icon_more"
+        android:title="@string/more" />
+
+</menu>
